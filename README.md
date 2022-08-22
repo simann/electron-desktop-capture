@@ -5,7 +5,7 @@ This project is an implementation of the following video:
 
 [![Everything Is AWESOME](https://img.youtube.com/vi/3yqDxhR2XxE/0.jpg)](https://www.youtube.com/watch?v=3yqDxhR2XxE)
 
-The projet in the video used an old electron version thus the shown code wont work without further adjustments. I decided to rebuild the project with
+The project in the video used an old electron version thus the shown code wont work without further adjustments. I decided to rebuild the project with
 the current electron (electron 20.0.3).
 
 The following video has been recorded with the app:
